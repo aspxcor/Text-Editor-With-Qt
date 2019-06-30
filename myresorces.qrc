@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/myImages">
+        <file>rsc/icon.ico</file>
+        <file>rsc/Editor.rc</file>
+        <file>rsc/bold.png</file>
+        <file>rsc/just.png</file>
+        <file>rsc/left.png</file>
+        <file>rsc/middle.png</file>
+        <file>rsc/right.png</file>
+        <file>rsc/save.png</file>
+        <file>rsc/size.png</file>
+        <file>rsc/underline.png</file>
+        <file>rsc/redo.png</file>
+        <file>rsc/undo.png</file>
+        <file>rsc/copy.png</file>
+        <file>rsc/cut.png</file>
+        <file>rsc/paste.png</file>
+        <file>rsc/new.png</file>
+        <file>rsc/find.png</file>
+        <file>rsc/i.png</file>
+        <file>rsc/help.png</file>
+        <file>rsc/icon.png</file>
+        <file>rsc/open.png</file>
+        <file>rsc/close.png</file>
+        <file>rsc/saveas.png</file>
+        <file>rsc/color.png</file>
+        <file>rsc/selectall.png</file>
+    </qresource>
+</RCC>
