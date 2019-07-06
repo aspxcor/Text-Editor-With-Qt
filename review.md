@@ -596,8 +596,6 @@ class  派生类名:继承方式  基类名
 
 ### <font color=red>基类成员在派生类中的访问属性</font>
 
-![1561958127166](C:\Users\丁智\AppData\Roaming\Typora\typora-user-images\1561958127166.png)
-
 ***<font color=red>inaccessible>private>protected>public</font>***
 
 *基类的private成员在私有派生类中是不可直接访问的,所以无论是派生类成员还是通过派生类的对象,都无法直接访问从基类继承来的private成员,但是可以通过基类提供的public成员函数间接访问。*
