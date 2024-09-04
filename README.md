@@ -1,3 +1,4 @@
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aspxcor.visitor)
 # 基于Qt5的文本编辑器
 
 ## 项目特性
