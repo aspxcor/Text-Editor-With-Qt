@@ -1,3 +1,5 @@
+
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aspxcor.visitor)
 # 基于Qt5的文本编辑器
 
@@ -837,7 +839,6 @@ void TextEditor::textFont()
         mergeformat( fmt );
     }
 }
-c
 ```
 
 ### 剪贴板的实现
